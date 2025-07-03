@@ -1,0 +1,9 @@
+Tout d'abord, 
+Je remercie mes lecteurs d'avoir visualisé mes précédentes publications et de contribuer à mon évolution par le biais de remarques constructives et de remises en question.
+Ces facteurs sont parmi les causes me permettant de m'améliorer, de publier régulièrement du contenu pour alimenter et dynamiser ma page Github.
+
+Pour rentrer dans le vif du sujet, mon rapport à cet outil provient de nombreuses recherches sur les avis remontant de plusieurs années de professionnels confirmés ou non mais qui ont pu exploiter Webmin.
+
+De par mon envie à le tester, j'ai suivi les procédures nécessaires menant à sa mise en place dans ma machine virtuelle et de trouver à la fin de cela en me connectant sur le serveur, une interface assez présentable avec différentes options (que je montrerai avec des captures).
+
+Webmin est un outil d'administration permettant également de gérer un environnement Linux à moindre échelle, son installation n'est pas compliquée à réaliser comme nous l'indique les différentes ressources (Internet,Youtube et autres...). Une fois l'installation de faite, nous pouvons prendre du plaisir à tester les options qui s'y trouvent.
